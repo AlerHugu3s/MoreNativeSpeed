@@ -1,0 +1,8 @@
+{
+  "name": "MoreNativeSpeed",
+  "author": "AlerHughes",
+  "version": "1.0.2",
+  "description": "Add more speed option",
+  "targetGameBuild": 522,
+  "iconPath": "icon.png"
+}
